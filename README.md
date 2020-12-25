@@ -1,1 +1,1 @@
-# DataScience
+Intercoder reliability checking using DataComPy library 
